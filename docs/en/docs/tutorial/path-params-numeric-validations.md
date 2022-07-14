@@ -77,7 +77,7 @@ Python won't do anything with that `*`, but it will know that all the following 
 
 ## Number validations: greater than or equal
 
-With `Query` and `Path` (and other's you'll see later) you can declare string constraints, but also number constraints.
+With `Query` and `Path` (and other's you'll see later) you can declare number constraints.
 
 Here, with `ge=1`, `item_id` will need to be an integer number "`g`reater than or `e`qual" to `1`.
 
